@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firoz1212&show_icons=true&locale=en" alt="firoz1212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firoz1212&" alt="firoz1212" /></p>
+[![Firoz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=firoz1212&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/firoz1212/github-readme-stats#gh-dark-mode-only)
+[![Firoz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=firoz1212&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/firoz1212/github-readme-stats#gh-light-mode-only)
