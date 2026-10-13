@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=200&section=header&text=Firoz%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=58" alt="banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=200&section=header&text=Firoz%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=58" alt="banner" width="100%" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=200&section=header&text=Firoz%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=58" alt="banner" width="100%" /> </p>
 
 <h1 align="center">Hi 👋, I'm Firoz Hussain</h1>
 <h3 align="center">Software Engineer | Java • Spring Boot • Microservices • Angular</h3>
