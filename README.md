@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Firoz1212/Firoz1212/blob/main/-computer-science-engineer--.jpeg?raw=true" alt="logo" width="160" />
+  <img src="https://raw.githubusercontent.com/Firoz1212/Firoz1212/main/logo.jpg" alt="logo" width="160" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Firoz Hussain</h1>
@@ -59,7 +59,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firoz1212&show_icons=true&locale=en&layout=compact" alt="firoz1212" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firoz1212&show_icons=true&locale=en&layout=compact&hide=php,css" alt="firoz1212" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firoz1212&show_icons=true&locale=en" alt="firoz1212" /></p>
 
