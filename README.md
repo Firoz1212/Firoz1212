@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firoz1212/Firoz1212/main/-computer-science-engineer--.jpeg" alt="logo" width="160" />
+  <img src="https://raw.githubusercontent.com/Firoz1212/Firoz1212/main/-computer-science-engineer--.jpeg" alt="logo" width="460" height="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Firoz Hussain</h1>
