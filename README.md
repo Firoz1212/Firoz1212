@@ -1,10 +1,15 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=200&section=header&text=Firoz%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=58" alt="banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github.com/Firoz1212/Firoz1212/blob/main/-computer-science-engineer--.jpeg?raw=true" alt="logo" width="160" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Firoz Hussain</h1>
 <h3 align="center">Software Engineer | Java • Spring Boot • Microservices • Angular</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<!-- Optional: upload your own gif to the repo as coding.gif, then uncomment the line below -->
+<!-- <img align="right" alt="coding" width="400" src="https://github.com/Firoz1212/Firoz1212/blob/main/coding.gif?raw=true"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz1212&label=Profile%20views&color=0e75b6&style=flat" alt="firoz1212" /> </p>
 
 - 💼 Associate Software Engineer at **Intellect Design Arena**, building enterprise corporate digital banking solutions (CBX)
