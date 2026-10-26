@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Firoz Hussain — Java Full Stack Developer</title>
+<desc id="desc">Associate Consultant at Intellect Design Arena. Java, Spring Boot, Angular, and corporate banking.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263948" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="340" rx="18" fill="#101c26"/>
+<rect x="760" width="440" height="340" fill="url(#grid)" opacity=".6"/>
+<rect x="48" y="48" width="5" height="244" rx="2" fill="#65dfbd"/>
+<text x="78" y="78" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#65dfbd">JAVA FULL STACK DEVELOPER</text>
+<text x="75" y="151" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="700" letter-spacing="-2" fill="#f3f7fa">Firoz Hussain</text>
+<text x="78" y="193" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#b6c7d3">Java services. Angular interfaces. Corporate banking.</text>
+<text x="78" y="260" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#d4e0e8">Associate Consultant · Intellect Design Arena</text>
+<text x="78" y="287" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#91a8b8">CHENNAI, INDIA</text>
+<path d="M883 98v40m0 64v40m-65-72h-40m170 0h40" stroke="#65dfbd" stroke-width="2" fill="none"/>
+<rect x="799" y="54" width="168" height="48" rx="8" fill="#193242" stroke="#33586a"/>
+<text x="883" y="84" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#e1f0f4">JAVA</text>
+<rect x="788" y="138" width="190" height="64" rx="8" fill="#163b34" stroke="#65dfbd"/>
+<text x="883" y="177" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#b7f6df">SPRING BOOT</text>
+<rect x="799" y="242" width="168" height="48" rx="8" fill="#193242" stroke="#33586a"/>
+<text x="883" y="272" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#e1f0f4">ANGULAR</text>
+<circle cx="778" cy="170" r="4" fill="#65dfbd"/><circle cx="988" cy="170" r="4" fill="#65dfbd"/>
+</svg>
