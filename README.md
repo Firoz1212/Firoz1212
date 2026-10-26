@@ -1,66 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=200&section=header&text=Firoz%20Hussain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=58" alt="banner" width="100%" />
-</p>
+# Firoz Hussain
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firoz1212/Firoz1212/main/-computer-science-engineer--.jpeg" alt="logo" width="100%" height="100%"/>
-</p>
+Java Full Stack Developer | Spring Boot | Angular | Corporate Banking
 
-<h1 align="center">Hi 👋, I'm Firoz Hussain</h1>
-<h3 align="center">Software Engineer | Java • Spring Boot • Microservices • Angular</h3>
-<!-- Optional: upload your own gif to the repo as coding.gif, then uncomment the line below -->
-<!-- <img align="right" alt="coding" width="400" src="https://github.com/Firoz1212/Firoz1212/blob/main/coding.gif?raw=true"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz1212&label=Profile%20views&color=0e75b6&style=flat" alt="firoz1212" /> </p>
+I'm an Associate Consultant at Intellect Design Arena in Chennai, with 2+ years of experience building corporate banking applications. I work on Java and Spring Boot services, Angular interfaces, and relational databases.
 
-- 💼 Associate Software Engineer at **Intellect Design Arena**, building enterprise corporate digital banking solutions (CBX)
+[LinkedIn](https://www.linkedin.com/in/firoz-hussain-a05738216/) · [Portfolio](https://Firoz1212.github.io/firoz-portfolio/) · [Email](mailto:firoz.hussain004@gmail.com)
 
-- 🛠️ I work across the stack: backend services in **Java & Spring Boot** (microservices) and frontend in **Angular & TypeScript**
+## Professional work
 
-- 🗄️ Databases: **Oracle, PostgreSQL, MySQL**
+- Developed 50+ production REST APIs using Java and Spring Boot, with input validation, role-based controls, and Angular integration.
+- Built 100+ reusable Angular components and dynamic forms using TypeScript and Bootstrap.
+- Worked on asynchronous processing for liquidity management, including Sweep and Pool Sweep workflows.
+- Wrote JUnit tests and maintained 90%+ JaCoCo coverage across assigned microservices.
+- Supported Oracle and PostgreSQL migrations and resolved functional, QA, and UAT defects across application layers.
 
-- 🎓 B.Tech in Computer Science & Engineering, C.V. Raman Global University (2024), **University Gold Medalist**
+My banking work was completed as part of my employment. The public repositories below are separate projects and learning work.
 
-- 📍 Based in Chennai, India
+## Selected public projects
 
-- 📫 How to reach me: **hfiroz86@gmail.com**
+| Project | What it demonstrates |
+| --- | --- |
+| [Employee Management System](https://github.com/Firoz1212/Spring-Boot-Employee-Management-System) | Spring Boot REST APIs, a React interface, and MySQL persistence for employee CRUD operations. |
+| [Interview App](https://github.com/Firoz1212/Interview-App) | An Angular interview-preparation application. |
+| [Java problem solving](https://github.com/Firoz1212/100-Days-of-Problem-Solving-Java) | Java practice focused on arrays, strings, and data structures. |
+| [Portfolio](https://github.com/Firoz1212/firoz-portfolio) | Career background and conceptual summaries of enterprise banking engagements. |
 
-- ⚡ Fun fact: **I am funny😅**
+## Core stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/twfiroz698769151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twfiroz698769151" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wfiroz-hussain-a05738216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wfiroz-hussain-a05738216" height="30" width="40" /></a>
-<a href="https://fb.com/firoz.hussain.378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firoz.hussain.378" height="30" width="40" /></a>
-<a href="https://instagram.com/_firoz121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_firoz121" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dynamic developers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dynamic developers" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/firozhussain10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="firozhussain10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/firoz121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="firoz121" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/firozhussain10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="firozhussain10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hfiroz86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hfiroz86" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/firoz58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="firoz58" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hfiroz86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hfiroz86" height="30" width="40" /></a>
-</p>
+- Backend: Java, Spring Boot, Spring Framework, REST APIs, Hibernate/JPA, JDBC
+- Frontend: Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap
+- Databases: PostgreSQL, Oracle, MySQL
+- Testing and quality: JUnit, JaCoCo, SonarQube, Fortify SCA, Postman
+- Tools: Git, Maven, Jira
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
+## Education and recognition
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firoz1212&show_icons=true&locale=en&layout=compact&hide=php,css" alt="firoz1212" /></p>
+B.Tech in Computer Science & Engineering, C.V. Raman Global University, 2024. University Gold Medalist, department rank 1, CGPA 9.16/10.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firoz1212&show_icons=true&locale=en" alt="firoz1212" /></p>
+Spot Award at Intellect Design Arena for LMS enhancement, migration stability, and on-time release delivery.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firoz1212&" alt="firoz1212" /></p>
+For professional opportunities, contact [firoz.hussain004@gmail.com](mailto:firoz.hussain004@gmail.com).
